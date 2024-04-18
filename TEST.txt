@@ -1,1 +1,4 @@
 This is my next file
+Now I made an error after commiting the file
+Now I am making the change by adding a new line 
+
